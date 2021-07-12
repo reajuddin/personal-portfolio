@@ -1,0 +1,58 @@
+body{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    margin: 0%;
+    
+}
+section{
+    height: 600px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 24px;
+}
+.red-span{
+    color: red;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width ul{
+    font-size: 15px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);   
+}
+.knowledge-banner{
+    background-image: url(images/biography-bg.png);
+}
+.work-banner{
+    height: 300px;
+    background-image: url(images/latest-work-bg.png);
+    text-align: center;
+}
+.work-handle{
+    width: 21%;
+    float: left;
+    margin: 0% 5%;
+    padding: 1%;
+}
+.work-handle img{
+    width: 100%;
+}
+.contact-info {
+    height: 50px;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
